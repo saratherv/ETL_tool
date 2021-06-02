@@ -1,0 +1,4 @@
+sudo docker container ls -qa
+sudo docker container rm 6defd51a3c0e
+sudo docker volume ls
+sudo docker volume rm 5de7050da87260c8bbb7878eb084b578a33a14fe0a1dfefdea75a86333c41a75
